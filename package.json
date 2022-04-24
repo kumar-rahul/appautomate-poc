@@ -1,0 +1,24 @@
+{
+  "name": "com.appautomate.poc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "poc for app automate product of browserstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-rahul/appautomate-poc.git"
+  },
+  "keywords": [
+    "app",
+    "automate"
+  ],
+  "author": "kumarrahul9292@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-rahul/appautomate-poc/issues"
+  },
+  "homepage": "https://github.com/kumar-rahul/appautomate-poc#readme"
+}
